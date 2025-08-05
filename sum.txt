@@ -1,4 +1,6 @@
 i=2
 j=3
-sum=i+j
+k=4
+sum=i+j+k
+
 print(sum)
