@@ -1,0 +1,4 @@
+A student portal typically requires students to register using a mobile
+ number and emailaddress,verify their identities with an OTP ,and set a 
+ password.The portal then provides access to various acadeic resources,
+ communication tools , and administraion infromation.
