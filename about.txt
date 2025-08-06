@@ -1,0 +1,3 @@
+Name: Nakka Jyoshna Sai Laxmi
+Course: BSc Computer Science
+About Git Hub:Github is a distributed version control system . It tracks code changes, help multiple people collaborate, and maintain a history of edits.
